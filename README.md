@@ -7,9 +7,9 @@ Welcome to our repository where we tackle two complex and engaging projects: "Ch
 This project analyzes global drug seizure data over four decades, focusing on trends, quantities, and geographical distribution of drug seizures. By examining the patterns of drug confiscations worldwide, we aim to shed light on the effectiveness of law enforcement efforts and the changing landscape of the drug trade.
 
 ## Key Findings
-  A general increase in the quantity of drug seizures, with notable spikes attributed to significant law enforcement actions.
-  Europe and the Americas emerge as significant centers for drug seizures, influenced by legal systems, market demands, and production locations.
-  Cannabis and opioids remain the most seized drugs, with a rising trend in Amphetamine-type stimulants (ATS) seizures.
+- A general increase in the quantity of drug seizures, with notable spikes attributed to significant law enforcement actions.
+- Europe and the Americas emerge as significant centers for drug seizures, influenced by legal systems, market demands, and production locations.
+- Cannabis and opioids remain the most seized drugs, with a rising trend in Amphetamine-type stimulants (ATS) seizures.
 
 
 
